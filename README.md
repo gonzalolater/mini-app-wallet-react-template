@@ -25,3 +25,5 @@ To stop nginx run `sudo nginx -s stop`
 
 `ngrok http 8080`
 The port doesn't matter, make sure it's the `listen` one from nginx config
+
+https://developer.worldcoin.org/teams/team_21378671704d0dd6216679ac35eb1afe/apps/app_9e7923f532c96a22b98cf8021898136f
